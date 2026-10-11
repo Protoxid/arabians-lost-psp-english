@@ -34,6 +34,7 @@ Arabians_Lost_JPN_PSP-PLAYASiA.iso
 
 # Temporary QA, Scratch & Agent Data
 scratch/
+cover_banner.png
 scratch_*.json
 qa/
 reports/
