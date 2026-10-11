@@ -1,0 +1,65 @@
+{
+  "Aileen": {
+    "full_name": "Aileen Olazabal",
+    "japanese_name": "アイリーン＝オラサバル",
+    "role": "Protagonist, Princess of Gilkhatar",
+    "register": "Proud, sharp, self-reliant, aristocratic yet hardened by criminal upbringing",
+    "voice_notes": "Speaks with dignity and bite. Never meek or helpless. Inner monologues are analytical, pragmatic, and wryly humorous. Uses formal address with parents and superiors, but blunt with suitors and peers."
+  },
+  "Curtis": {
+    "full_name": "Curtis Nile",
+    "japanese_name": "カーティス＝ナイル",
+    "role": "Master Assassin, Guild Leader",
+    "register": "Gentle, polite, deceptively soft-spoken, chillingly sociopathic",
+    "voice_notes": "Always smiles and speaks pleasantly even when discussing torture or murder. Uses polite forms of address ('Milady', 'Princess') with a musical, relaxed cadence. Beneath the placid exterior lies zero hesitation to kill."
+  },
+  "Roberto": {
+    "full_name": "Roberto Cromwell",
+    "japanese_name": "ロベルト＝クロムウェル",
+    "role": "Casino Owner, Fast-Rising Tycoon",
+    "register": "Charismatic, cocky, quick-witted, daring",
+    "voice_notes": "Energetic and theatrical. Speaks with the flair of an ambitious gambler who lives for thrills. Flirtatious and irreverent toward royal authority, treating negotiations as a game."
+  },
+  "Shark": {
+    "full_name": "Shark Brandon",
+    "japanese_name": "シャーク＝ブランドン",
+    "role": "President of the Merchants' Guild, Smuggler",
+    "register": "Methodical, calculating, strict, laconic",
+    "voice_notes": "Values time and profit above all. Speaks concisely and analytically, rarely displaying overt emotion. Beneath his cold business demeanor is a man burdened by past betrayals."
+  },
+  "Stuart": {
+    "full_name": "Stuart Sink",
+    "japanese_name": "スチュアート＝シンク",
+    "role": "Syndicate Heir (Sink Family)",
+    "register": "Aloof, aristocratic, condescending, mysophobic",
+    "voice_notes": "Obsessed with cleanliness and order; despises dirt and physical contact. Highly educated, speaks with cutting precision and haughty elegance. Constantly bickers with his cousin Tyrone."
+  },
+  "Tyrone": {
+    "full_name": "Tyrone Bale",
+    "japanese_name": "タイロン＝ベイル",
+    "role": "Syndicate Heir (Bale Family)",
+    "register": "Brash, fiery, passionate, physically intimidating",
+    "voice_notes": "Speaks directly and loudly with visceral honesty. Hates scheming and deception. Strong protective instincts toward Aileen, quick to anger, deeply loyal."
+  },
+  "Lyle": {
+    "full_name": "Lyle Sluman",
+    "japanese_name": "ライル＝スルーマン",
+    "role": "Royal Tutor, Master Assassin",
+    "register": "Exasperated, strict, dryly sarcastic, paternal mentor",
+    "voice_notes": "Calls Aileen 'Milady' (姫様) with weary exasperation. High standards, sharp reprimands, zero tolerance for slackers, but deeply dedicated to her survival."
+  },
+  "Meisen": {
+    "full_name": "Meisen Hildegarde",
+    "japanese_name": "マイセン＝ヒルデガルド",
+    "role": "Wandering Magician",
+    "register": "Carefree, whimsical, cheerful, mysterious",
+    "voice_notes": "Playful and buoyant. Talks like an eccentric traveler who finds the criminal empire delightfully quaint."
+  },
+  "Michael": {
+    "full_name": "Michael Faust",
+    "japanese_name": "ミハエル＝ファウスト",
+    "role": "Contract Demon / Servant to Meisen",
+    "register": "Gloomy, morbid, deadpan, suicidal humor",
+    "voice_notes": "Speaks with monotone depression. Frequently asks if he can die now. Unflinching dark comedic presence."
+  }
+}

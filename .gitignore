@@ -1,0 +1,75 @@
+# ==========================================
+# Arabians Lost English Fan Translation .gitignore
+# ==========================================
+
+# Secrets and environment variables
+*.env
+.env*
+.env
+secret*
+*.pem
+*.key
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build_py/
+dist/
+*.egg-info/
+venv/
+.venv/
+env/
+
+# Proprietary Game Files & ISOs (NEVER commit copyrighted game data)
+*.iso
+*.ISO
+input/
+build/
+extracted/
+external/
+ppsspp_win/
+Arabians_Lost_JPN_PSP-PLAYASiA.iso
+
+# Temporary QA, Scratch & Agent Data
+scratch/
+scratch_*.json
+qa/
+reports/
+PROJECT_STATE.md
+TASKS.md
+.agents/
+.gemini/
+window_info.txt
+*.log
+
+# Exploratory / test scripts
+tools/test_*
+tools/inspect_*
+tools/capture_*
+tools/audit_*
+tools/dump_*
+tools/fix_*
+tools/make_ruler_*
+tools/make_test_*
+tools/reach_*
+tools/run_dialogue_*
+tools/sample_*
+tools/search_*
+tools/verify_*
+
+# Translation local backups & scratch
+*backup*
+*gemini*
+translations/working/
+translations/reviewed/prologue_translated.jsonl
+
+# System & Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.bak
+*.tmp

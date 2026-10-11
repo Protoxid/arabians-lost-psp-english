@@ -1,0 +1,7 @@
+# Track large binary translation patch with Git LFS
+*.xdelta filter=lfs diff=lfs merge=lfs -text
+
+# Binary formats
+*.gim binary
+*.cpk binary
+*.iso binary

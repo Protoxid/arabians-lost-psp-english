@@ -1,0 +1,9 @@
+# Arabians Lost (PSP) — English Fan Translation v1.0
+# Original Japanese ISO (ULJM06104 v1.02):
+5eddbb1bb87bc88f4efa380826276cd605fe65dac0c8beee73b64d7e91be110e *original.iso
+
+# Patched English ISO:
+82939a0d0cbf91964eb0cf13c3e1c5c67b9bbab24db2a35a93bde8005d03f270 *ArabiansLost_English.iso
+
+# Distributable xdelta3 Patch:
+19c90e91c13a3c8be45551bf9c31c07e3fb6a2a08ad01f5dca9e9703ec6656f1 *ArabiansLost_English_v1.0.xdelta
