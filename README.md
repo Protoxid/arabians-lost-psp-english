@@ -25,6 +25,22 @@ Her parents agree to let her break off her arranged marriage on one condition: w
 
 ---
 
+## 🤖 Project Background & AI-Assisted Methodology
+
+> [!NOTE]
+> **A Personal Labor of Love & Open Community Project**  
+> This project originally started as a personal gift to make this classic, untranslated QuinRose otome game fully playable in English for someone special who wanted to experience it. Because no fan translation existed after nearly 15 years, we built a dedicated romhacking and LLM pipeline to bring the entire game into English—and decided to share the patch and all project tooling openly so fellow otome fans could finally play it too.
+
+### How This Translation Was Created
+Because *Arabians Lost* features a massive script of **35,713 scenario records** with complex engine macros, the localization was produced using an **AI-assisted translation & engineering pipeline**:
+
+1. **LLM Scenario Translation:** Dialogue and narration scripts were translated utilizing modern language models (Anthropic Claude 3.5 Haiku) guided by route-specific context, character voice guides, and strict terminology constraints.
+2. **Automated Harmonization & Glossary Rules:** We enforced unified character naming conventions across all routes (standardizing Lyle, Meisen, Totam, Almeida, etc.) and repaired engine tags (such as font scaling `[f size="150"]`, color markup, and ruby tags) with 0 linter errors.
+3. **Romhacking & Engine Texture Localization:** Custom Python utilities were written to extract and repack the CRI CPK archive, decode/encode PSP 8-bit indexed GIM textures with swizzled pixel layouts (localizing all 26 character nameplate scrolls, title screens, and 14 system dialog popups), and enforce an automated whole-word wrapping engine ($\le 18$ characters/line) so English text renders cleanly without cutting words.
+4. **Why a Public Beta?** While the game is 100% playable from start to finish and verified against crashes and broken tags, machine-assisted translations can still have stylistic quirks or tonal imperfections compared to a dedicated human literary translation. We released this as an **open Public Beta** with all raw translation JSONL files included in this repo so the community can enjoy the story today and help proofread, polish phrasing, and suggest improvements through GitHub Issues and Pull Requests!
+
+---
+
 ## 🎮 Translation Status
 
 * **Scenario Dialogue & Narration:** **100% Complete** (all 35,713 scenario records translated).
@@ -149,7 +165,9 @@ To build the English ISO from source using the repository assets:
 
 ## ☕ Support the Project
 
-If you enjoyed playing the English translation of *Arabians Lost* and would like to support future patches, bug fixes, or future English otome localizations, consider buying a coffee!
+This translation patch and all development scripts are **100% free and open-source**. 
+
+If you enjoyed playing *Arabians Lost* in English and would like to help offset the personal out-of-pocket cloud API token costs incurred while translating the 35,700+ lines through Claude, you are welcome to leave an optional tip on Ko-fi:
 
 <p align="center">
   <a href="https://ko-fi.com/protoxide">
@@ -157,7 +175,7 @@ If you enjoyed playing the English translation of *Arabians Lost* and would like
   </a>
 </p>
 
-Your support directly helps offset translation costs (cloud API tokens, development tooling, and game preservation efforts). Every cup of coffee is deeply appreciated!
+Any support goes directly toward reimbursing cloud API fees and funding future fan translation efforts. Thank you!
 
 ---
 
