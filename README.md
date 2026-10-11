@@ -3,6 +3,7 @@
 [![Platform: PSP](https://img.shields.io/badge/Platform-PSP-003791.svg)](https://en.wikipedia.org/wiki/PlayStation_Portable)
 [![Status: Public Beta](https://img.shields.io/badge/Status-Public%20Beta%20v1.0-brightgreen.svg)]()
 [![Scenario Coverage: 100%](https://img.shields.io/badge/Scenario-100%25%20Translated-blue.svg)]()
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Project-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/protoxide)
 [![License: Non-Commercial Fan Project](https://img.shields.io/badge/License-Non--Commercial%20Fan%20Project-lightgrey.svg)]()
 
 An English fan translation patch for **Arabians Lost: The Engagement on Desert** (*アラビアンズ・ロスト ～The Engagement on Desert～*), the acclaimed Arabian fantasy crime-romance otome visual novel developed by **QuinRose** and released for the PlayStation Portable (**ULJM-06104**).
@@ -142,6 +143,20 @@ To build the English ISO from source using the repository assets:
    ```bash
    python tools/make_patch.py
    ```
+
+---
+
+## ☕ Support the Project
+
+If you enjoyed playing the English translation of *Arabians Lost* and would like to support future patches, bug fixes, or future English otome localizations, consider buying a coffee!
+
+<p align="center">
+  <a href="https://ko-fi.com/protoxide">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support on Ko-fi" width="220" />
+  </a>
+</p>
+
+Your support directly helps offset translation costs (cloud API tokens, development tooling, and game preservation efforts). Every cup of coffee is deeply appreciated!
 
 ---
 

@@ -37,3 +37,11 @@ xdelta3 -d -s original.iso ArabiansLost_English_v1.0.xdelta ArabiansLost_English
 
 - **PPSSPP:** Load `ArabiansLost_English.iso` directly into PPSSPP. No custom plugins or texture replacements are required. All English text renders natively.
 - **Real PSP Hardware:** Copy `ArabiansLost_English.iso` to the `ISO/` folder of your Memory Stick on a custom-firmware enabled PSP (PRO, ME, or ARK).
+
+---
+
+## ☕ Support Future Translations
+
+If you find this translation helpful and want to support upcoming projects or patch updates:  
+👉 **[Buy a coffee on Ko-fi](https://ko-fi.com/protoxide)**
+
