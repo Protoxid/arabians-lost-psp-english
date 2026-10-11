@@ -15,9 +15,9 @@ See `SHA256SUMS.txt` for exact SHA-256 hashes of the original image, patch, and 
 - **Original Japanese ISO SHA-256:**  
   `5eddbb1bb87bc88f4efa380826276cd605fe65dac0c8beee73b64d7e91be110e`
 - **Distributable xdelta3 Patch SHA-256:**  
-  `19c90e91c13a3c8be45551bf9c31c07e3fb6a2a08ad01f5dca9e9703ec6656f1`
+  `30b465b7269f1f236537e91820d353968814e2641cd79c90bd11d741c2b45fa1`
 - **Output Patched English ISO SHA-256:**  
-  `82939a0d0cbf91964eb0cf13c3e1c5c67b9bbab24db2a35a93bde8005d03f270`
+  `b83881c57d63f30d9b62f65c41cb441a37c9a2bcd516f879feb74a9f5672f2cc`
 
 ---
 

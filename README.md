@@ -30,6 +30,7 @@ Her parents agree to let her break off her arranged marriage on one condition: w
 * **Scenario Dialogue & Narration:** **100% Complete** (all 35,713 scenario records translated).
 * **Character Nameplates:** **100% Localized** (all 26 character scroll nameplate textures recreated in English).
 * **System UI & Buttons:** **100% Localized** (Save, Load, Options, Recall, Title menus, and confirmation prompts).
+* **System Popups & Dialogs:** **100% Localized** (all 14 autosave notices, save/load banners, quick save/load prompts, and Yes/No buttons).
 * **Typography & Engine Formatting:** Formatted with whole-word wrapping ($\le 18$ characters/line, $\le 4$ lines/box, CP932 ASCII encoding). Zero cut or sliced words.
 
 ---
@@ -86,10 +87,10 @@ Verify your patched ISO matches the official build using SHA-256:
 5eddbb1bb87bc88f4efa380826276cd605fe65dac0c8beee73b64d7e91be110e *original.iso
 
 # Patched English ISO:
-82939a0d0cbf91964eb0cf13c3e1c5c67b9bbab24db2a35a93bde8005d03f270 *ArabiansLost_English.iso
+b83881c57d63f30d9b62f65c41cb441a37c9a2bcd516f879feb74a9f5672f2cc *ArabiansLost_English.iso
 
 # Distributable xdelta3 Patch:
-19c90e91c13a3c8be45551bf9c31c07e3fb6a2a08ad01f5dca9e9703ec6656f1 *ArabiansLost_English_v1.0.xdelta
+30b465b7269f1f236537e91820d353968814e2641cd79c90bd11d741c2b45fa1 *ArabiansLost_English_v1.0.xdelta
 ```
 
 ---
